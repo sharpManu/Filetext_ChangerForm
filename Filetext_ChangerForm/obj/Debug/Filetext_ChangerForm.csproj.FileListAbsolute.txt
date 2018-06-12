@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\VS Spielwiese\Filetext_ChangerForm\Filetext_ChangerForm\bin\Debug\Filetext_ChangerForm.exe.config
+C:\Users\Administrator\Documents\VS Spielwiese\Filetext_ChangerForm\Filetext_ChangerForm\bin\Debug\Filetext_ChangerForm.exe
+C:\Users\Administrator\Documents\VS Spielwiese\Filetext_ChangerForm\Filetext_ChangerForm\bin\Debug\Filetext_ChangerForm.pdb
+C:\Users\Administrator\Documents\VS Spielwiese\Filetext_ChangerForm\Filetext_ChangerForm\obj\Debug\Filetext_ChangerForm.Properties.Resources.resources
+C:\Users\Administrator\Documents\VS Spielwiese\Filetext_ChangerForm\Filetext_ChangerForm\obj\Debug\Filetext_ChangerForm.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\VS Spielwiese\Filetext_ChangerForm\Filetext_ChangerForm\obj\Debug\Filetext_ChangerForm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\VS Spielwiese\Filetext_ChangerForm\Filetext_ChangerForm\obj\Debug\Filetext_ChangerForm.exe
+C:\Users\Administrator\Documents\VS Spielwiese\Filetext_ChangerForm\Filetext_ChangerForm\obj\Debug\Filetext_ChangerForm.pdb
+C:\Users\Administrator\Documents\VS Spielwiese\Filetext_ChangerForm\Filetext_ChangerForm\obj\Debug\Filetext_ChangerForm.MassFileChanger.resources
+C:\Users\Administrator\Documents\VS Spielwiese\Filetext_ChangerForm\Filetext_ChangerForm\obj\Debug\Filetext_ChangerForm.csprojAssemblyReference.cache
