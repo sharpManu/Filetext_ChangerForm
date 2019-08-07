@@ -3,8 +3,3 @@ Das Programm ist dazu gedacht, mehrere gleiche Strings aus verschiedenen Dateina
 
 ## Anweisungen und Navigation
 Man wählt den Pfad aus, in dem man gerne eine Datei manipulieren möchte, 
-
-
-
-### Vorschläge und Feedback
-
